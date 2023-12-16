@@ -1,0 +1,7 @@
+---
+channel: stable
+addons:
+  bookstack:
+    repository: Torpedro1978/ha-addon-bookstack
+    target: bookstack
+    image: ghcr.io/hassio-addons/bookstack/{arch}
